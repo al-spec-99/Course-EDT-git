@@ -1,0 +1,11 @@
+Команды 4 день
+
+git branch
+git checkout
+git pull
+git merge ИмяВетки
+git fetch
+git revert
+git reset --hard
+git rebase master
+git cherry-pick
