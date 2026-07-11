@@ -1,0 +1,14 @@
+https://edt.1c.ru/dev/ru/
+https://github.com/marmyshev/edt-plugins?tab=readme-ov-file
+https://github.com/1C-Company
+https://code.1c.ai/
+https://code.visualstudio.com/download
+https://git-scm.com/
+
+https://ohmygit.org/
+https://learngitbranching.js.org/
+https://tproger.ru/articles/prohozhdenie-learn-git-branching (решения)
+
+https://github.com/
+
+https://github.com/Oxotka/StackTechnologies1C
